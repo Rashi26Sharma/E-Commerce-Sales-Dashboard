@@ -68,7 +68,7 @@ To create a centralized and visual sales analytics tool that:
 🕹️ **Interactive Slicers**
 * Dynamic filters for region, product category, and customer segment for personalized analysis.
 
-### 📈 Business Impact & Insights
+### 5. Business Impact & Insights
 
 * 💡 **Performance Visibility**: Real-time view of profit-generating products and regions.
 * 🧠 **Data-Driven Decisions**: Sales managers can focus efforts on top categories and regions.
@@ -76,4 +76,5 @@ To create a centralized and visual sales analytics tool that:
 * 🎯 **Customer Targeting**: Segment insights enable personalized marketing campaigns.
 * 🌍 **Strategic Planning**: Regional and time-based trends help with expansion and seasonal planning.
 
-### 5. Screenshots/Demos
+### 6. Screenshots/Demos
+[https://github.com/Rashi26Sharma/E-Commerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png]
