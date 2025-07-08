@@ -77,4 +77,4 @@ To create a centralized and visual sales analytics tool that:
 * 🌍 **Strategic Planning**: Regional and time-based trends help with expansion and seasonal planning.
 
 ### 6. Screenshots/Demos
-[https://github.com/Rashi26Sharma/E-Commerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png]
+[Dashboard Preview](https://github.com/Rashi26Sharma/E-Commerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
